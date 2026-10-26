@@ -2,4 +2,4 @@
 このリポジトリはGit動画講座用です．
 
 local changed
-main edited
+conflict edited
