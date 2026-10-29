@@ -5,4 +5,5 @@ local changed
 conflict edited
 on git edited
 on conflict-remote edited
+on rebase-practice edited
 
