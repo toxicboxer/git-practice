@@ -8,3 +8,4 @@ on conflict-remote edited
 on rebase-practice edited 2nd
 for rebase on github
 stash practice tracked
+2nd stash
